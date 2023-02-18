@@ -1,0 +1,77 @@
+.cont{
+    width: 80%;
+    margin: auto;
+}
+h1{
+  
+    color:#ADB5BD ;
+    font-size: 45 !important;
+    font-family: 'Lobster', cursive;
+}
+h3{
+    font-family: 'Lobster', cursive;
+}
+#h4{
+    font-family: 'Lobster', cursive;   
+}
+.txt{
+    color:#9f9fa7 ; 
+    font-weight: bold;  
+    font-size: 17px ;
+}
+.form{
+    width: 95%;
+    margin: auto;
+    background-color: #F1F1F1;
+}
+
+.tittle{
+    font-weight: bold;
+    font-size: 18px;
+    color: #36383a;
+}
+
+.brdrtop{
+    border-bottom: 1px solid gray;
+}
+.brdrbottom{
+    border-top: 1px solid gray;
+}
+
+.submit{
+   padding: 10px 25px;
+   color: #fff;
+   background-color: rgb(15, 129, 206);
+   font-size: 18px;
+}
+.vist{
+
+    color: #fff;
+    background-color:rgb(15, 129, 206) ;
+    font-size: 18px;
+}
+
+.table{
+    width: 95%;
+    margin: auto;
+    
+}
+
+#tableBody tr{
+    background-color:#F1F1F1;
+    margin-top: 5px;
+   
+}
+
+.social-media{
+    background-color: rgb(15, 15, 15);
+}
+.social-media i{
+margin-left: 10px;
+font-size: 22;
+transition: all;
+transition-duration: 0.5s;
+}
+.social-media i:hover{
+color: rgb(49, 49, 49) ;
+}
